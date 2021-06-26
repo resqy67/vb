@@ -1,0 +1,32 @@
+C:\Users\medad\OneDrive\Documents\New folder\Alfian\Medad Praktikum\bin\Debug\Alfian.exe.config
+C:\Users\medad\OneDrive\Documents\New folder\Alfian\Medad Praktikum\bin\Debug\Alfian.exe
+C:\Users\medad\OneDrive\Documents\New folder\Alfian\Medad Praktikum\bin\Debug\Alfian.pdb
+C:\Users\medad\OneDrive\Documents\New folder\Alfian\Medad Praktikum\bin\Debug\Alfian.xml
+C:\Users\medad\OneDrive\Documents\New folder\Alfian\Medad Praktikum\obj\Debug\Medad Praktikum.vbprojAssemblyReference.cache
+C:\Users\medad\OneDrive\Documents\New folder\Alfian\Medad Praktikum\obj\Debug\Alfian.Form1.resources
+C:\Users\medad\OneDrive\Documents\New folder\Alfian\Medad Praktikum\obj\Debug\Alfian.Form2.resources
+C:\Users\medad\OneDrive\Documents\New folder\Alfian\Medad Praktikum\obj\Debug\Alfian.Form3.resources
+C:\Users\medad\OneDrive\Documents\New folder\Alfian\Medad Praktikum\obj\Debug\Alfian.Home.resources
+C:\Users\medad\OneDrive\Documents\New folder\Alfian\Medad Praktikum\obj\Debug\Alfian.Resources.resources
+C:\Users\medad\OneDrive\Documents\New folder\Alfian\Medad Praktikum\obj\Debug\Alfian.Praktikum2.resources
+C:\Users\medad\OneDrive\Documents\New folder\Alfian\Medad Praktikum\obj\Debug\Medad Praktikum.vbproj.GenerateResource.cache
+C:\Users\medad\OneDrive\Documents\New folder\Alfian\Medad Praktikum\obj\Debug\Medad Praktikum.vbproj.CoreCompileInputs.cache
+C:\Users\medad\OneDrive\Documents\New folder\Alfian\Medad Praktikum\obj\Debug\Alfian.exe
+C:\Users\medad\OneDrive\Documents\New folder\Alfian\Medad Praktikum\obj\Debug\Alfian.xml
+C:\Users\medad\OneDrive\Documents\New folder\Alfian\Medad Praktikum\obj\Debug\Alfian.pdb
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\Medad Praktikum\bin\Debug\Alfian.exe.config
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\Medad Praktikum\bin\Debug\Alfian.exe
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\Medad Praktikum\bin\Debug\Alfian.pdb
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\Medad Praktikum\bin\Debug\Alfian.xml
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\Medad Praktikum\obj\Debug\Medad Praktikum.vbprojAssemblyReference.cache
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\Medad Praktikum\obj\Debug\Alfian.Form1.resources
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\Medad Praktikum\obj\Debug\Alfian.Form2.resources
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\Medad Praktikum\obj\Debug\Alfian.Form3.resources
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\Medad Praktikum\obj\Debug\Alfian.Home.resources
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\Medad Praktikum\obj\Debug\Alfian.Resources.resources
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\Medad Praktikum\obj\Debug\Alfian.Praktikum2.resources
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\Medad Praktikum\obj\Debug\Medad Praktikum.vbproj.GenerateResource.cache
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\Medad Praktikum\obj\Debug\Medad Praktikum.vbproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\Medad Praktikum\obj\Debug\Alfian.exe
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\Medad Praktikum\obj\Debug\Alfian.xml
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\Medad Praktikum\obj\Debug\Alfian.pdb

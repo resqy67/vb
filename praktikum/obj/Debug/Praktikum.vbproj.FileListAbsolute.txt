@@ -1,0 +1,115 @@
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\praktikum\bin\Debug\Alfian.exe.config
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\praktikum\bin\Debug\Alfian.exe
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\praktikum\bin\Debug\Alfian.pdb
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\praktikum\bin\Debug\Alfian.xml
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\praktikum\obj\Debug\Praktikum.vbprojAssemblyReference.cache
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\praktikum\obj\Debug\Alfian.Form1.resources
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\praktikum\obj\Debug\Alfian.Form2.resources
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\praktikum\obj\Debug\Alfian.Form3.resources
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\praktikum\obj\Debug\Alfian.Home.resources
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\praktikum\obj\Debug\Alfian.Resources.resources
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\praktikum\obj\Debug\Alfian.Praktikum2.resources
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\praktikum\obj\Debug\Praktikum.vbproj.GenerateResource.cache
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\praktikum\obj\Debug\Praktikum.vbproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\praktikum\obj\Debug\Alfian.exe
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\praktikum\obj\Debug\Alfian.xml
+C:\Users\GIGABYTE\Downloads\Alfian\Alfian\praktikum\obj\Debug\Alfian.pdb
+C:\Users\LAB\Downloads\Praktikum_2011117\Praktikum_2011117\praktikum\obj\Debug\Alfian.Form1.resources
+C:\Users\LAB\Downloads\Praktikum_2011117\Praktikum_2011117\praktikum\obj\Debug\Alfian.Form2.resources
+C:\Users\LAB\Downloads\Praktikum_2011117\Praktikum_2011117\praktikum\obj\Debug\Alfian.Form3.resources
+C:\Users\LAB\Downloads\Praktikum_2011117\Praktikum_2011117\praktikum\obj\Debug\Alfian.Home.resources
+C:\Users\LAB\Downloads\Praktikum_2011117\Praktikum_2011117\praktikum\obj\Debug\Alfian.Resources.resources
+C:\Users\LAB\Downloads\Praktikum_2011117\Praktikum_2011117\praktikum\obj\Debug\Alfian.Praktikum2.resources
+C:\Users\LAB\Downloads\Praktikum_2011117\Praktikum_2011117\praktikum\obj\Debug\Praktikum.vbproj.GenerateResource.Cache
+C:\Users\LAB\Downloads\Praktikum_2011117\Praktikum_2011117\praktikum\bin\Debug\Praktikum.exe.config
+C:\Users\LAB\Downloads\Praktikum_2011117\Praktikum_2011117\praktikum\bin\Debug\Praktikum.exe
+C:\Users\LAB\Downloads\Praktikum_2011117\Praktikum_2011117\praktikum\bin\Debug\Praktikum.pdb
+C:\Users\LAB\Downloads\Praktikum_2011117\Praktikum_2011117\praktikum\bin\Debug\Praktikum.xml
+C:\Users\LAB\Downloads\Praktikum_2011117\Praktikum_2011117\praktikum\obj\Debug\Praktikum.exe
+C:\Users\LAB\Downloads\Praktikum_2011117\Praktikum_2011117\praktikum\obj\Debug\Praktikum.xml
+C:\Users\LAB\Downloads\Praktikum_2011117\Praktikum_2011117\praktikum\obj\Debug\Praktikum.pdb
+C:\Users\LAB\Downloads\Praktikum_2011117-02\Praktikum_2011117\praktikum\bin\Debug\Praktikum.exe.config
+C:\Users\LAB\Downloads\Praktikum_2011117-02\Praktikum_2011117\praktikum\obj\Debug\Praktikum.exe
+C:\Users\LAB\Downloads\Praktikum_2011117-02\Praktikum_2011117\praktikum\obj\Debug\Praktikum.xml
+C:\Users\LAB\Downloads\Praktikum_2011117-02\Praktikum_2011117\praktikum\obj\Debug\Praktikum.pdb
+C:\Users\LAB\Downloads\Praktikum_2011117-02\Praktikum_2011117\praktikum\bin\Debug\Praktikum.exe
+C:\Users\LAB\Downloads\Praktikum_2011117-02\Praktikum_2011117\praktikum\bin\Debug\Praktikum.pdb
+C:\Users\LAB\Downloads\Praktikum_2011117-02\Praktikum_2011117\praktikum\bin\Debug\Praktikum.xml
+C:\Users\LAB\Downloads\Praktikum_2011117-02\Praktikum_2011117\praktikum\obj\Debug\Alfian.Form1.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-02\Praktikum_2011117\praktikum\obj\Debug\Alfian.Form2.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-02\Praktikum_2011117\praktikum\obj\Debug\Alfian.Form3.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-02\Praktikum_2011117\praktikum\obj\Debug\Alfian.Home.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-02\Praktikum_2011117\praktikum\obj\Debug\Alfian.Resources.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-02\Praktikum_2011117\praktikum\obj\Debug\Alfian.Praktikum2.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-02\Praktikum_2011117\praktikum\obj\Debug\Praktikum.vbproj.GenerateResource.Cache
+C:\Users\LAB\Downloads\Praktikum_2011117-03\Praktikum_2011117\praktikum\bin\Debug\Praktikum.exe.config
+C:\Users\LAB\Downloads\Praktikum_2011117-03\Praktikum_2011117\praktikum\obj\Debug\Praktikum.exe
+C:\Users\LAB\Downloads\Praktikum_2011117-03\Praktikum_2011117\praktikum\obj\Debug\Praktikum.xml
+C:\Users\LAB\Downloads\Praktikum_2011117-03\Praktikum_2011117\praktikum\obj\Debug\Praktikum.pdb
+C:\Users\LAB\Downloads\Praktikum_2011117-03\Praktikum_2011117\praktikum\bin\Debug\Praktikum.exe
+C:\Users\LAB\Downloads\Praktikum_2011117-03\Praktikum_2011117\praktikum\bin\Debug\Praktikum.pdb
+C:\Users\LAB\Downloads\Praktikum_2011117-03\Praktikum_2011117\praktikum\bin\Debug\Praktikum.xml
+C:\Users\LAB\Downloads\Praktikum_2011117-03\Praktikum_2011117\praktikum\obj\Debug\resqy.Form1.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-03\Praktikum_2011117\praktikum\obj\Debug\resqy.Form2.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-03\Praktikum_2011117\praktikum\obj\Debug\resqy.Form3.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-03\Praktikum_2011117\praktikum\obj\Debug\resqy.Home.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-03\Praktikum_2011117\praktikum\obj\Debug\resqy.Resources.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-03\Praktikum_2011117\praktikum\obj\Debug\resqy.Praktikum2.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-03\Praktikum_2011117\praktikum\obj\Debug\Praktikum.vbproj.GenerateResource.Cache
+C:\Users\LAB\Downloads\Praktikum_2011117-03\Praktikum_2011117\praktikum\obj\Debug\resqy.Form4.resources
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\bin\Debug\Praktikum.exe.config
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\bin\Debug\Praktikum.exe
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\bin\Debug\Praktikum.pdb
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\bin\Debug\Praktikum.xml
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\obj\Debug\Praktikum.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\obj\Debug\resqy.Form1.resources
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\obj\Debug\resqy.Form2.resources
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\obj\Debug\resqy.Form3.resources
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\obj\Debug\resqy.Form4.resources
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\obj\Debug\resqy.Home.resources
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\obj\Debug\resqy.Resources.resources
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\obj\Debug\resqy.Praktikum2.resources
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\obj\Debug\resqy.praktikum4.resources
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\obj\Debug\Praktikum.vbproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\obj\Debug\Praktikum.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\obj\Debug\Praktikum.exe
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\obj\Debug\Praktikum.xml
+C:\Users\Administrator\Downloads\Praktikum_2011117-04\Praktikum_2011117\praktikum\obj\Debug\Praktikum.pdb
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\bin\Debug\Praktikum.exe.config
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\obj\Debug\Praktikum.exe
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\obj\Debug\Praktikum.xml
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\obj\Debug\Praktikum.pdb
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\bin\Debug\Praktikum.exe
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\bin\Debug\Praktikum.pdb
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\bin\Debug\Praktikum.xml
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\obj\Debug\resqy.Form1.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\obj\Debug\resqy.Form2.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\obj\Debug\resqy.Form3.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\obj\Debug\resqy.Form4.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\obj\Debug\resqy.Home.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\obj\Debug\resqy.Resources.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\obj\Debug\resqy.Praktikum2.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\obj\Debug\resqy.praktikum4.resources
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\obj\Debug\Praktikum.vbproj.GenerateResource.Cache
+C:\Users\LAB\Downloads\Praktikum_2011117-05\Praktikum_2011117\praktikum\obj\Debug\resqy.Form5.resources
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\bin\Debug\Praktikum.exe.config
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\bin\Debug\Praktikum.exe
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\bin\Debug\Praktikum.pdb
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\bin\Debug\Praktikum.xml
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\Praktikum.vbproj.AssemblyReference.cache
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\resqy.Form1.resources
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\resqy.Form2.resources
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\resqy.Form3.resources
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\resqy.Form4.resources
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\resqy.Form5.resources
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\resqy.Frmlatihan.resources
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\resqy.Home.resources
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\resqy.Resources.resources
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\resqy.Praktikum2.resources
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\resqy.praktikum4.resources
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\Praktikum.vbproj.GenerateResource.cache
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\Praktikum.vbproj.CoreCompileInputs.cache
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\Praktikum.exe
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\Praktikum.xml
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\Praktikum.pdb
+E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\resqy.module2.resources
