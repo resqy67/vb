@@ -50,14 +50,6 @@ Partial Class Home
         Me.Praktikum67ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PercabanganToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PercabanganBersarangToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.NamaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.GameTicTacToeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.TugasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.Tugas1ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.BantuanToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.BantuanToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
-        Me.NamaToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
-        Me.LogoutToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Praktikum8ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PerulanganFORToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PerulanganWHILEToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -69,6 +61,18 @@ Partial Class Home
         Me.Praktikum10ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ProcedureDanFunctionToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.FunctionToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.NamaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.GameTicTacToeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.TugasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Tugas1ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.BantuanToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.BantuanToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.NamaToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.LogoutToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Praktikum11ToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Praktikum12ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Latihan1ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Latihan2ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -163,7 +167,7 @@ Partial Class Home
         '
         'ModuleToolStripMenuItem
         '
-        Me.ModuleToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Praktikum11ToolStripMenuItem, Me.Praktikum2ToolStripMenuItem1, Me.Praktikum3ToolStripMenuItem1, Me.Praktikum5ToolStripMenuItem1, Me.Praktikum67ToolStripMenuItem, Me.Praktikum8ToolStripMenuItem, Me.Praktikum9ToolStripMenuItem, Me.Praktikum10ToolStripMenuItem})
+        Me.ModuleToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Praktikum11ToolStripMenuItem, Me.Praktikum2ToolStripMenuItem1, Me.Praktikum3ToolStripMenuItem1, Me.Praktikum5ToolStripMenuItem1, Me.Praktikum67ToolStripMenuItem, Me.Praktikum8ToolStripMenuItem, Me.Praktikum9ToolStripMenuItem, Me.Praktikum10ToolStripMenuItem, Me.Praktikum11ToolStripMenuItem1, Me.Praktikum12ToolStripMenuItem})
         Me.ModuleToolStripMenuItem.Name = "ModuleToolStripMenuItem"
         Me.ModuleToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.ModuleToolStripMenuItem.Text = "Module"
@@ -249,6 +253,75 @@ Partial Class Home
         Me.PercabanganBersarangToolStripMenuItem.Size = New System.Drawing.Size(198, 22)
         Me.PercabanganBersarangToolStripMenuItem.Text = "Percabangan Bersarang"
         '
+        'Praktikum8ToolStripMenuItem
+        '
+        Me.Praktikum8ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.PerulanganFORToolStripMenuItem, Me.PerulanganWHILEToolStripMenuItem, Me.PerulanganDOWHILEToolStripMenuItem, Me.PerulanganFOREACHToolStripMenuItem})
+        Me.Praktikum8ToolStripMenuItem.Name = "Praktikum8ToolStripMenuItem"
+        Me.Praktikum8ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.Praktikum8ToolStripMenuItem.Text = "Praktikum 8"
+        '
+        'PerulanganFORToolStripMenuItem
+        '
+        Me.PerulanganFORToolStripMenuItem.Name = "PerulanganFORToolStripMenuItem"
+        Me.PerulanganFORToolStripMenuItem.Size = New System.Drawing.Size(193, 22)
+        Me.PerulanganFORToolStripMenuItem.Text = "Perulangan FOR"
+        '
+        'PerulanganWHILEToolStripMenuItem
+        '
+        Me.PerulanganWHILEToolStripMenuItem.Name = "PerulanganWHILEToolStripMenuItem"
+        Me.PerulanganWHILEToolStripMenuItem.Size = New System.Drawing.Size(193, 22)
+        Me.PerulanganWHILEToolStripMenuItem.Text = "Perulangan WHILE"
+        '
+        'PerulanganDOWHILEToolStripMenuItem
+        '
+        Me.PerulanganDOWHILEToolStripMenuItem.Name = "PerulanganDOWHILEToolStripMenuItem"
+        Me.PerulanganDOWHILEToolStripMenuItem.Size = New System.Drawing.Size(193, 22)
+        Me.PerulanganDOWHILEToolStripMenuItem.Text = "Perulangan DO WHILE"
+        '
+        'PerulanganFOREACHToolStripMenuItem
+        '
+        Me.PerulanganFOREACHToolStripMenuItem.Name = "PerulanganFOREACHToolStripMenuItem"
+        Me.PerulanganFOREACHToolStripMenuItem.Size = New System.Drawing.Size(193, 22)
+        Me.PerulanganFOREACHToolStripMenuItem.Text = "Perulangan FOR EACH"
+        '
+        'Praktikum9ToolStripMenuItem
+        '
+        Me.Praktikum9ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ArraySatuDimensiToolStripMenuItem, Me.ArrayMultiDimensiToolStripMenuItem})
+        Me.Praktikum9ToolStripMenuItem.Name = "Praktikum9ToolStripMenuItem"
+        Me.Praktikum9ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.Praktikum9ToolStripMenuItem.Text = "Praktikum 9"
+        '
+        'ArraySatuDimensiToolStripMenuItem
+        '
+        Me.ArraySatuDimensiToolStripMenuItem.Name = "ArraySatuDimensiToolStripMenuItem"
+        Me.ArraySatuDimensiToolStripMenuItem.Size = New System.Drawing.Size(179, 22)
+        Me.ArraySatuDimensiToolStripMenuItem.Text = "Array Satu Dimensi"
+        '
+        'ArrayMultiDimensiToolStripMenuItem
+        '
+        Me.ArrayMultiDimensiToolStripMenuItem.Name = "ArrayMultiDimensiToolStripMenuItem"
+        Me.ArrayMultiDimensiToolStripMenuItem.Size = New System.Drawing.Size(179, 22)
+        Me.ArrayMultiDimensiToolStripMenuItem.Text = "Array Multi Dimensi"
+        '
+        'Praktikum10ToolStripMenuItem
+        '
+        Me.Praktikum10ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ProcedureDanFunctionToolStripMenuItem, Me.FunctionToolStripMenuItem})
+        Me.Praktikum10ToolStripMenuItem.Name = "Praktikum10ToolStripMenuItem"
+        Me.Praktikum10ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.Praktikum10ToolStripMenuItem.Text = "Praktikum 10"
+        '
+        'ProcedureDanFunctionToolStripMenuItem
+        '
+        Me.ProcedureDanFunctionToolStripMenuItem.Name = "ProcedureDanFunctionToolStripMenuItem"
+        Me.ProcedureDanFunctionToolStripMenuItem.Size = New System.Drawing.Size(201, 22)
+        Me.ProcedureDanFunctionToolStripMenuItem.Text = "Procedure dan Function"
+        '
+        'FunctionToolStripMenuItem
+        '
+        Me.FunctionToolStripMenuItem.Name = "FunctionToolStripMenuItem"
+        Me.FunctionToolStripMenuItem.Size = New System.Drawing.Size(201, 22)
+        Me.FunctionToolStripMenuItem.Text = "Function"
+        '
         'NamaToolStripMenuItem
         '
         Me.NamaToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.GameTicTacToeToolStripMenuItem})
@@ -301,74 +374,30 @@ Partial Class Home
         Me.LogoutToolStripMenuItem.Size = New System.Drawing.Size(112, 22)
         Me.LogoutToolStripMenuItem.Text = "&Logout"
         '
-        'Praktikum8ToolStripMenuItem
+        'Praktikum11ToolStripMenuItem1
         '
-        Me.Praktikum8ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.PerulanganFORToolStripMenuItem, Me.PerulanganWHILEToolStripMenuItem, Me.PerulanganDOWHILEToolStripMenuItem, Me.PerulanganFOREACHToolStripMenuItem})
-        Me.Praktikum8ToolStripMenuItem.Name = "Praktikum8ToolStripMenuItem"
-        Me.Praktikum8ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
-        Me.Praktikum8ToolStripMenuItem.Text = "Praktikum 8"
+        Me.Praktikum11ToolStripMenuItem1.Name = "Praktikum11ToolStripMenuItem1"
+        Me.Praktikum11ToolStripMenuItem1.Size = New System.Drawing.Size(180, 22)
+        Me.Praktikum11ToolStripMenuItem1.Text = "Praktikum 11"
         '
-        'PerulanganFORToolStripMenuItem
+        'Praktikum12ToolStripMenuItem
         '
-        Me.PerulanganFORToolStripMenuItem.Name = "PerulanganFORToolStripMenuItem"
-        Me.PerulanganFORToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
-        Me.PerulanganFORToolStripMenuItem.Text = "Perulangan FOR"
+        Me.Praktikum12ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Latihan1ToolStripMenuItem, Me.Latihan2ToolStripMenuItem})
+        Me.Praktikum12ToolStripMenuItem.Name = "Praktikum12ToolStripMenuItem"
+        Me.Praktikum12ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.Praktikum12ToolStripMenuItem.Text = "Praktikum 12"
         '
-        'PerulanganWHILEToolStripMenuItem
+        'Latihan1ToolStripMenuItem
         '
-        Me.PerulanganWHILEToolStripMenuItem.Name = "PerulanganWHILEToolStripMenuItem"
-        Me.PerulanganWHILEToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
-        Me.PerulanganWHILEToolStripMenuItem.Text = "Perulangan WHILE"
+        Me.Latihan1ToolStripMenuItem.Name = "Latihan1ToolStripMenuItem"
+        Me.Latihan1ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.Latihan1ToolStripMenuItem.Text = "Latihan 1"
         '
-        'PerulanganDOWHILEToolStripMenuItem
+        'Latihan2ToolStripMenuItem
         '
-        Me.PerulanganDOWHILEToolStripMenuItem.Name = "PerulanganDOWHILEToolStripMenuItem"
-        Me.PerulanganDOWHILEToolStripMenuItem.Size = New System.Drawing.Size(192, 22)
-        Me.PerulanganDOWHILEToolStripMenuItem.Text = "Perulangan DO WHILE"
-        '
-        'PerulanganFOREACHToolStripMenuItem
-        '
-        Me.PerulanganFOREACHToolStripMenuItem.Name = "PerulanganFOREACHToolStripMenuItem"
-        Me.PerulanganFOREACHToolStripMenuItem.Size = New System.Drawing.Size(193, 22)
-        Me.PerulanganFOREACHToolStripMenuItem.Text = "Perulangan FOR EACH"
-        '
-        'Praktikum9ToolStripMenuItem
-        '
-        Me.Praktikum9ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ArraySatuDimensiToolStripMenuItem, Me.ArrayMultiDimensiToolStripMenuItem})
-        Me.Praktikum9ToolStripMenuItem.Name = "Praktikum9ToolStripMenuItem"
-        Me.Praktikum9ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
-        Me.Praktikum9ToolStripMenuItem.Text = "Praktikum 9"
-        '
-        'ArraySatuDimensiToolStripMenuItem
-        '
-        Me.ArraySatuDimensiToolStripMenuItem.Name = "ArraySatuDimensiToolStripMenuItem"
-        Me.ArraySatuDimensiToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
-        Me.ArraySatuDimensiToolStripMenuItem.Text = "Array Satu Dimensi"
-        '
-        'ArrayMultiDimensiToolStripMenuItem
-        '
-        Me.ArrayMultiDimensiToolStripMenuItem.Name = "ArrayMultiDimensiToolStripMenuItem"
-        Me.ArrayMultiDimensiToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
-        Me.ArrayMultiDimensiToolStripMenuItem.Text = "Array Multi Dimensi"
-        '
-        'Praktikum10ToolStripMenuItem
-        '
-        Me.Praktikum10ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ProcedureDanFunctionToolStripMenuItem, Me.FunctionToolStripMenuItem})
-        Me.Praktikum10ToolStripMenuItem.Name = "Praktikum10ToolStripMenuItem"
-        Me.Praktikum10ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
-        Me.Praktikum10ToolStripMenuItem.Text = "Praktikum 10"
-        '
-        'ProcedureDanFunctionToolStripMenuItem
-        '
-        Me.ProcedureDanFunctionToolStripMenuItem.Name = "ProcedureDanFunctionToolStripMenuItem"
-        Me.ProcedureDanFunctionToolStripMenuItem.Size = New System.Drawing.Size(201, 22)
-        Me.ProcedureDanFunctionToolStripMenuItem.Text = "Procedure dan Function"
-        '
-        'FunctionToolStripMenuItem
-        '
-        Me.FunctionToolStripMenuItem.Name = "FunctionToolStripMenuItem"
-        Me.FunctionToolStripMenuItem.Size = New System.Drawing.Size(201, 22)
-        Me.FunctionToolStripMenuItem.Text = "Function"
+        Me.Latihan2ToolStripMenuItem.Name = "Latihan2ToolStripMenuItem"
+        Me.Latihan2ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.Latihan2ToolStripMenuItem.Text = "Latihan 2"
         '
         'Home
         '
@@ -432,4 +461,8 @@ Partial Class Home
     Friend WithEvents Praktikum10ToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ProcedureDanFunctionToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents FunctionToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents Praktikum11ToolStripMenuItem1 As ToolStripMenuItem
+    Friend WithEvents Praktikum12ToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents Latihan1ToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents Latihan2ToolStripMenuItem As ToolStripMenuItem
 End Class
