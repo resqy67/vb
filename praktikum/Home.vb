@@ -103,4 +103,9 @@
         Form18.Show()
 
     End Sub
+
+    Private Sub ArraySatuDimensiToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ArraySatuDimensiToolStripMenuItem.Click
+        Form19.Show()
+
+    End Sub
 End Class

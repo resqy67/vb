@@ -63,6 +63,9 @@ Partial Class Home
         Me.PerulanganWHILEToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PerulanganDOWHILEToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PerulanganFOREACHToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Praktikum9ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ArraySatuDimensiToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ArrayMultiDimensiToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -157,7 +160,7 @@ Partial Class Home
         '
         'ModuleToolStripMenuItem
         '
-        Me.ModuleToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Praktikum11ToolStripMenuItem, Me.Praktikum2ToolStripMenuItem1, Me.Praktikum3ToolStripMenuItem1, Me.Praktikum5ToolStripMenuItem1, Me.Praktikum67ToolStripMenuItem, Me.Praktikum8ToolStripMenuItem})
+        Me.ModuleToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Praktikum11ToolStripMenuItem, Me.Praktikum2ToolStripMenuItem1, Me.Praktikum3ToolStripMenuItem1, Me.Praktikum5ToolStripMenuItem1, Me.Praktikum67ToolStripMenuItem, Me.Praktikum8ToolStripMenuItem, Me.Praktikum9ToolStripMenuItem})
         Me.ModuleToolStripMenuItem.Name = "ModuleToolStripMenuItem"
         Me.ModuleToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.ModuleToolStripMenuItem.Text = "Module"
@@ -326,6 +329,25 @@ Partial Class Home
         Me.PerulanganFOREACHToolStripMenuItem.Size = New System.Drawing.Size(193, 22)
         Me.PerulanganFOREACHToolStripMenuItem.Text = "Perulangan FOR EACH"
         '
+        'Praktikum9ToolStripMenuItem
+        '
+        Me.Praktikum9ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ArraySatuDimensiToolStripMenuItem, Me.ArrayMultiDimensiToolStripMenuItem})
+        Me.Praktikum9ToolStripMenuItem.Name = "Praktikum9ToolStripMenuItem"
+        Me.Praktikum9ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.Praktikum9ToolStripMenuItem.Text = "Praktikum 9"
+        '
+        'ArraySatuDimensiToolStripMenuItem
+        '
+        Me.ArraySatuDimensiToolStripMenuItem.Name = "ArraySatuDimensiToolStripMenuItem"
+        Me.ArraySatuDimensiToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.ArraySatuDimensiToolStripMenuItem.Text = "Array Satu Dimensi"
+        '
+        'ArrayMultiDimensiToolStripMenuItem
+        '
+        Me.ArrayMultiDimensiToolStripMenuItem.Name = "ArrayMultiDimensiToolStripMenuItem"
+        Me.ArrayMultiDimensiToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.ArrayMultiDimensiToolStripMenuItem.Text = "Array Multi Dimensi"
+        '
         'Home
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -382,4 +404,7 @@ Partial Class Home
     Friend WithEvents PerulanganWHILEToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents PerulanganDOWHILEToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents PerulanganFOREACHToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents Praktikum9ToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents ArraySatuDimensiToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents ArrayMultiDimensiToolStripMenuItem As ToolStripMenuItem
 End Class
