@@ -127,4 +127,9 @@
     Private Sub Latihan1ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Latihan1ToolStripMenuItem.Click
         Form23.Show()
     End Sub
+
+    Private Sub Latihan2ToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles Latihan2ToolStripMenuItem.Click
+        Form24.Show()
+
+    End Sub
 End Class
