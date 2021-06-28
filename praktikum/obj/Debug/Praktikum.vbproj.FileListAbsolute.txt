@@ -113,3 +113,26 @@ E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\Praktikum.exe
 E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\Praktikum.xml
 E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\Praktikum.pdb
 E:\DATA PACKAGES\Praktikum_2011117\praktikum\obj\Debug\resqy.module2.resources
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\Praktikum.vbproj.AssemblyReference.cache
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\Praktikum.exe
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\Praktikum.xml
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\Praktikum.pdb
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\resqy.Form1.resources
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\resqy.Form2.resources
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\resqy.Form3.resources
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\resqy.Form4.resources
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\resqy.Form5.resources
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\resqy.Home.resources
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\resqy.Frmlatihan.resources
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\resqy.Resources.resources
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\resqy.Praktikum2.resources
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\resqy.praktikum4.resources
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\Praktikum.vbproj.GenerateResource.cache
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\Praktikum.vbproj.CoreCompileInputs.cache
+C:\Users\Resqy\Source\Repos\vb\praktikum\bin\Debug\Praktikum.exe.config
+C:\Users\Resqy\Source\Repos\vb\praktikum\bin\Debug\Praktikum.exe
+C:\Users\Resqy\Source\Repos\vb\praktikum\bin\Debug\Praktikum.pdb
+C:\Users\Resqy\Source\Repos\vb\praktikum\bin\Debug\Praktikum.xml
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\resqy.Form6.resources
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\resqy.Form7.resources
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\resqy.Form8.resources

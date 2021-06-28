@@ -36,6 +36,8 @@ Partial Class Home
         Me.Praktikum5ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Praktikum6ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Praktikum7ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ModuleToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Praktikum11ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.NamaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.GameTicTacToeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.TugasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -44,8 +46,9 @@ Partial Class Home
         Me.BantuanToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.NamaToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.LogoutToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.ModuleToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.Praktikum11ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Praktikum2ToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Praktikum3ToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Praktikum4ToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -138,6 +141,19 @@ Partial Class Home
         Me.Praktikum7ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.Praktikum7ToolStripMenuItem.Text = "Praktikum 7"
         '
+        'ModuleToolStripMenuItem
+        '
+        Me.ModuleToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Praktikum11ToolStripMenuItem, Me.Praktikum2ToolStripMenuItem1, Me.Praktikum3ToolStripMenuItem1, Me.Praktikum4ToolStripMenuItem1})
+        Me.ModuleToolStripMenuItem.Name = "ModuleToolStripMenuItem"
+        Me.ModuleToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.ModuleToolStripMenuItem.Text = "Module"
+        '
+        'Praktikum11ToolStripMenuItem
+        '
+        Me.Praktikum11ToolStripMenuItem.Name = "Praktikum11ToolStripMenuItem"
+        Me.Praktikum11ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.Praktikum11ToolStripMenuItem.Text = "Praktikum-1"
+        '
         'NamaToolStripMenuItem
         '
         Me.NamaToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.GameTicTacToeToolStripMenuItem})
@@ -161,7 +177,7 @@ Partial Class Home
         'Tugas1ToolStripMenuItem
         '
         Me.Tugas1ToolStripMenuItem.Name = "Tugas1ToolStripMenuItem"
-        Me.Tugas1ToolStripMenuItem.Size = New System.Drawing.Size(114, 22)
+        Me.Tugas1ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.Tugas1ToolStripMenuItem.Text = "Tugas &1"
         '
         'BantuanToolStripMenuItem
@@ -190,18 +206,23 @@ Partial Class Home
         Me.LogoutToolStripMenuItem.Size = New System.Drawing.Size(112, 22)
         Me.LogoutToolStripMenuItem.Text = "&Logout"
         '
-        'ModuleToolStripMenuItem
+        'Praktikum2ToolStripMenuItem1
         '
-        Me.ModuleToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Praktikum11ToolStripMenuItem})
-        Me.ModuleToolStripMenuItem.Name = "ModuleToolStripMenuItem"
-        Me.ModuleToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
-        Me.ModuleToolStripMenuItem.Text = "Module"
+        Me.Praktikum2ToolStripMenuItem1.Name = "Praktikum2ToolStripMenuItem1"
+        Me.Praktikum2ToolStripMenuItem1.Size = New System.Drawing.Size(180, 22)
+        Me.Praktikum2ToolStripMenuItem1.Text = "Praktikum-2"
         '
-        'Praktikum11ToolStripMenuItem
+        'Praktikum3ToolStripMenuItem1
         '
-        Me.Praktikum11ToolStripMenuItem.Name = "Praktikum11ToolStripMenuItem"
-        Me.Praktikum11ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
-        Me.Praktikum11ToolStripMenuItem.Text = "Praktikum-1"
+        Me.Praktikum3ToolStripMenuItem1.Name = "Praktikum3ToolStripMenuItem1"
+        Me.Praktikum3ToolStripMenuItem1.Size = New System.Drawing.Size(180, 22)
+        Me.Praktikum3ToolStripMenuItem1.Text = "Praktikum-3"
+        '
+        'Praktikum4ToolStripMenuItem1
+        '
+        Me.Praktikum4ToolStripMenuItem1.Name = "Praktikum4ToolStripMenuItem1"
+        Me.Praktikum4ToolStripMenuItem1.Size = New System.Drawing.Size(180, 22)
+        Me.Praktikum4ToolStripMenuItem1.Text = "Praktikum-4"
         '
         'Home
         '
@@ -242,4 +263,7 @@ Partial Class Home
     Friend WithEvents Praktikum7ToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents ModuleToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents Praktikum11ToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents Praktikum2ToolStripMenuItem1 As ToolStripMenuItem
+    Friend WithEvents Praktikum3ToolStripMenuItem1 As ToolStripMenuItem
+    Friend WithEvents Praktikum4ToolStripMenuItem1 As ToolStripMenuItem
 End Class
