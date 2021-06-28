@@ -93,4 +93,14 @@
         Form16.Show()
 
     End Sub
+
+    Private Sub PerulanganDOWHILEToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles PerulanganDOWHILEToolStripMenuItem.Click
+        Form17.Show()
+
+    End Sub
+
+    Private Sub PerulanganFOREACHToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles PerulanganFOREACHToolStripMenuItem.Click
+        Form18.Show()
+
+    End Sub
 End Class

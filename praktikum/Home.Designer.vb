@@ -61,6 +61,8 @@ Partial Class Home
         Me.Praktikum8ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PerulanganFORToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PerulanganWHILEToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.PerulanganDOWHILEToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.PerulanganFOREACHToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -295,7 +297,7 @@ Partial Class Home
         '
         'Praktikum8ToolStripMenuItem
         '
-        Me.Praktikum8ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.PerulanganFORToolStripMenuItem, Me.PerulanganWHILEToolStripMenuItem})
+        Me.Praktikum8ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.PerulanganFORToolStripMenuItem, Me.PerulanganWHILEToolStripMenuItem, Me.PerulanganDOWHILEToolStripMenuItem, Me.PerulanganFOREACHToolStripMenuItem})
         Me.Praktikum8ToolStripMenuItem.Name = "Praktikum8ToolStripMenuItem"
         Me.Praktikum8ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.Praktikum8ToolStripMenuItem.Text = "Praktikum 8"
@@ -311,6 +313,18 @@ Partial Class Home
         Me.PerulanganWHILEToolStripMenuItem.Name = "PerulanganWHILEToolStripMenuItem"
         Me.PerulanganWHILEToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.PerulanganWHILEToolStripMenuItem.Text = "Perulangan WHILE"
+        '
+        'PerulanganDOWHILEToolStripMenuItem
+        '
+        Me.PerulanganDOWHILEToolStripMenuItem.Name = "PerulanganDOWHILEToolStripMenuItem"
+        Me.PerulanganDOWHILEToolStripMenuItem.Size = New System.Drawing.Size(192, 22)
+        Me.PerulanganDOWHILEToolStripMenuItem.Text = "Perulangan DO WHILE"
+        '
+        'PerulanganFOREACHToolStripMenuItem
+        '
+        Me.PerulanganFOREACHToolStripMenuItem.Name = "PerulanganFOREACHToolStripMenuItem"
+        Me.PerulanganFOREACHToolStripMenuItem.Size = New System.Drawing.Size(193, 22)
+        Me.PerulanganFOREACHToolStripMenuItem.Text = "Perulangan FOR EACH"
         '
         'Home
         '
@@ -366,4 +380,6 @@ Partial Class Home
     Friend WithEvents Praktikum8ToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents PerulanganFORToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents PerulanganWHILEToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents PerulanganDOWHILEToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents PerulanganFOREACHToolStripMenuItem As ToolStripMenuItem
 End Class
