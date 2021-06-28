@@ -55,12 +55,42 @@
         Form6.Show()
     End Sub
 
-    Private Sub Praktikum3ToolStripMenuItem1_Click(sender As Object, e As EventArgs) Handles Praktikum3ToolStripMenuItem1.Click
+    Private Sub ComboToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ComboToolStripMenuItem.Click
         Form7.Show()
     End Sub
 
-    Private Sub Praktikum4ToolStripMenuItem1_Click(sender As Object, e As EventArgs) Handles Praktikum4ToolStripMenuItem1.Click
+    Private Sub TimerAndTimePickerToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles TimerAndTimePickerToolStripMenuItem.Click
         Form8.Show()
+    End Sub
+
+    Private Sub VariabelLokalToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles VariabelLokalToolStripMenuItem.Click
+        Form10.Show()
+    End Sub
+
+    Private Sub VariabelGlobalToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles VariabelGlobalToolStripMenuItem.Click
+        Form11.Show()
+    End Sub
+
+    Private Sub OperatorToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles OperatorToolStripMenuItem.Click
+        Form12.Show()
+    End Sub
+
+    Private Sub PercabanganToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles PercabanganToolStripMenuItem.Click
+        Form13.Show()
+
+    End Sub
+
+    Private Sub PercabanganBersarangToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles PercabanganBersarangToolStripMenuItem.Click
+        Form14.Show()
+
+    End Sub
+
+    Private Sub PerulanganFORToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles PerulanganFORToolStripMenuItem.Click
+        Form15.Show()
+    End Sub
+
+    Private Sub PerulanganWHILEToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles PerulanganWHILEToolStripMenuItem.Click
+        Form16.Show()
 
     End Sub
 End Class
