@@ -108,4 +108,19 @@
         Form19.Show()
 
     End Sub
+
+    Private Sub ArrayMultiDimensiToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ArrayMultiDimensiToolStripMenuItem.Click
+        Form20.Show()
+
+    End Sub
+
+    Private Sub ProcedureDanFunctionToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ProcedureDanFunctionToolStripMenuItem.Click
+        Form21.Show()
+
+    End Sub
+
+    Private Sub FunctionToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles FunctionToolStripMenuItem.Click
+        Form22.Show()
+
+    End Sub
 End Class
