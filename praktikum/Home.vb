@@ -132,4 +132,9 @@
         Form24.Show()
 
     End Sub
+
+    Private Sub MenuToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles MenuToolStripMenuItem.Click
+        Form9.Show()
+
+    End Sub
 End Class
