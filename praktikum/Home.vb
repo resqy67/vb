@@ -137,4 +137,9 @@
         Form9.Show()
 
     End Sub
+
+    Private Sub DatabaseSQLToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles DatabaseSQLToolStripMenuItem.Click
+        Form25.Show()
+
+    End Sub
 End Class

@@ -61,6 +61,10 @@ Partial Class Home
         Me.Praktikum10ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ProcedureDanFunctionToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.FunctionToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Praktikum11ToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Praktikum12ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Latihan1ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Latihan2ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.NamaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.GameTicTacToeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.TugasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -69,10 +73,8 @@ Partial Class Home
         Me.BantuanToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.NamaToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.LogoutToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.Praktikum11ToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
-        Me.Praktikum12ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.Latihan1ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.Latihan2ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.DatabaseSQLToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.DatabaseAccessToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -322,6 +324,32 @@ Partial Class Home
         Me.FunctionToolStripMenuItem.Size = New System.Drawing.Size(201, 22)
         Me.FunctionToolStripMenuItem.Text = "Function"
         '
+        'Praktikum11ToolStripMenuItem1
+        '
+        Me.Praktikum11ToolStripMenuItem1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DatabaseSQLToolStripMenuItem, Me.DatabaseAccessToolStripMenuItem})
+        Me.Praktikum11ToolStripMenuItem1.Name = "Praktikum11ToolStripMenuItem1"
+        Me.Praktikum11ToolStripMenuItem1.Size = New System.Drawing.Size(180, 22)
+        Me.Praktikum11ToolStripMenuItem1.Text = "Praktikum 11"
+        '
+        'Praktikum12ToolStripMenuItem
+        '
+        Me.Praktikum12ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Latihan1ToolStripMenuItem, Me.Latihan2ToolStripMenuItem})
+        Me.Praktikum12ToolStripMenuItem.Name = "Praktikum12ToolStripMenuItem"
+        Me.Praktikum12ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.Praktikum12ToolStripMenuItem.Text = "Praktikum 12"
+        '
+        'Latihan1ToolStripMenuItem
+        '
+        Me.Latihan1ToolStripMenuItem.Name = "Latihan1ToolStripMenuItem"
+        Me.Latihan1ToolStripMenuItem.Size = New System.Drawing.Size(122, 22)
+        Me.Latihan1ToolStripMenuItem.Text = "Latihan 1"
+        '
+        'Latihan2ToolStripMenuItem
+        '
+        Me.Latihan2ToolStripMenuItem.Name = "Latihan2ToolStripMenuItem"
+        Me.Latihan2ToolStripMenuItem.Size = New System.Drawing.Size(122, 22)
+        Me.Latihan2ToolStripMenuItem.Text = "Latihan 2"
+        '
         'NamaToolStripMenuItem
         '
         Me.NamaToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.GameTicTacToeToolStripMenuItem})
@@ -374,30 +402,17 @@ Partial Class Home
         Me.LogoutToolStripMenuItem.Size = New System.Drawing.Size(112, 22)
         Me.LogoutToolStripMenuItem.Text = "&Logout"
         '
-        'Praktikum11ToolStripMenuItem1
+        'DatabaseSQLToolStripMenuItem
         '
-        Me.Praktikum11ToolStripMenuItem1.Name = "Praktikum11ToolStripMenuItem1"
-        Me.Praktikum11ToolStripMenuItem1.Size = New System.Drawing.Size(180, 22)
-        Me.Praktikum11ToolStripMenuItem1.Text = "Praktikum 11"
+        Me.DatabaseSQLToolStripMenuItem.Name = "DatabaseSQLToolStripMenuItem"
+        Me.DatabaseSQLToolStripMenuItem.Size = New System.Drawing.Size(198, 22)
+        Me.DatabaseSQLToolStripMenuItem.Text = "Database SQL Server CE"
         '
-        'Praktikum12ToolStripMenuItem
+        'DatabaseAccessToolStripMenuItem
         '
-        Me.Praktikum12ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Latihan1ToolStripMenuItem, Me.Latihan2ToolStripMenuItem})
-        Me.Praktikum12ToolStripMenuItem.Name = "Praktikum12ToolStripMenuItem"
-        Me.Praktikum12ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
-        Me.Praktikum12ToolStripMenuItem.Text = "Praktikum 12"
-        '
-        'Latihan1ToolStripMenuItem
-        '
-        Me.Latihan1ToolStripMenuItem.Name = "Latihan1ToolStripMenuItem"
-        Me.Latihan1ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
-        Me.Latihan1ToolStripMenuItem.Text = "Latihan 1"
-        '
-        'Latihan2ToolStripMenuItem
-        '
-        Me.Latihan2ToolStripMenuItem.Name = "Latihan2ToolStripMenuItem"
-        Me.Latihan2ToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
-        Me.Latihan2ToolStripMenuItem.Text = "Latihan 2"
+        Me.DatabaseAccessToolStripMenuItem.Name = "DatabaseAccessToolStripMenuItem"
+        Me.DatabaseAccessToolStripMenuItem.Size = New System.Drawing.Size(198, 22)
+        Me.DatabaseAccessToolStripMenuItem.Text = "Database Access"
         '
         'Home
         '
@@ -465,4 +480,6 @@ Partial Class Home
     Friend WithEvents Praktikum12ToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents Latihan1ToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents Latihan2ToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents DatabaseSQLToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents DatabaseAccessToolStripMenuItem As ToolStripMenuItem
 End Class

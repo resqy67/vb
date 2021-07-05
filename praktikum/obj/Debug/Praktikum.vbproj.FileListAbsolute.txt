@@ -175,3 +175,6 @@ C:\!!!DATA SERVER\Tugas Universitas\vb\vb\praktikum\obj\Debug\resqy.Form21.resou
 C:\!!!DATA SERVER\Tugas Universitas\vb\vb\praktikum\obj\Debug\resqy.Form22.resources
 C:\!!!DATA SERVER\Tugas Universitas\vb\vb\praktikum\obj\Debug\resqy.Form23.resources
 C:\!!!DATA SERVER\Tugas Universitas\vb\vb\praktikum\obj\Debug\resqy.Form24.resources
+C:\!!!DATA SERVER\Tugas Universitas\vb\vb\praktikum\bin\Debug\Database1.mdf
+C:\!!!DATA SERVER\Tugas Universitas\vb\vb\praktikum\bin\Debug\Database1_log.ldf
+C:\!!!DATA SERVER\Tugas Universitas\vb\vb\praktikum\obj\Debug\resqy.Form25.resources
