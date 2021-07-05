@@ -103,7 +103,7 @@ Partial Class Form26
         Me.MhsBindingNavigator.MovePreviousItem = Me.BindingNavigatorMovePreviousItem
         Me.MhsBindingNavigator.Name = "MhsBindingNavigator"
         Me.MhsBindingNavigator.PositionItem = Me.BindingNavigatorPositionItem
-        Me.MhsBindingNavigator.Size = New System.Drawing.Size(800, 25)
+        Me.MhsBindingNavigator.Size = New System.Drawing.Size(629, 25)
         Me.MhsBindingNavigator.TabIndex = 0
         Me.MhsBindingNavigator.Text = "BindingNavigator1"
         '
@@ -330,7 +330,7 @@ Partial Class Form26
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 484)
+        Me.ClientSize = New System.Drawing.Size(629, 437)
         Me.Controls.Add(Me.MhsDataGridView)
         Me.Controls.Add(KELAMINLabel)
         Me.Controls.Add(Me.KELAMINTextBox)
