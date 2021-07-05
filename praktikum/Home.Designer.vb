@@ -62,6 +62,8 @@ Partial Class Home
         Me.ProcedureDanFunctionToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.FunctionToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Praktikum11ToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.DatabaseSQLToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.DatabaseAccessToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Praktikum12ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Latihan1ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Latihan2ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -73,8 +75,6 @@ Partial Class Home
         Me.BantuanToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.NamaToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.LogoutToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.DatabaseSQLToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.DatabaseAccessToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -196,19 +196,19 @@ Partial Class Home
         'ComboToolStripMenuItem
         '
         Me.ComboToolStripMenuItem.Name = "ComboToolStripMenuItem"
-        Me.ComboToolStripMenuItem.Size = New System.Drawing.Size(320, 22)
+        Me.ComboToolStripMenuItem.Size = New System.Drawing.Size(322, 22)
         Me.ComboToolStripMenuItem.Text = "Combobox and Listbox"
         '
         'TimerAndTimePickerToolStripMenuItem
         '
         Me.TimerAndTimePickerToolStripMenuItem.Name = "TimerAndTimePickerToolStripMenuItem"
-        Me.TimerAndTimePickerToolStripMenuItem.Size = New System.Drawing.Size(320, 22)
+        Me.TimerAndTimePickerToolStripMenuItem.Size = New System.Drawing.Size(322, 22)
         Me.TimerAndTimePickerToolStripMenuItem.Text = "Timer and TimePicker"
         '
         'MenuToolStripMenuItem
         '
         Me.MenuToolStripMenuItem.Name = "MenuToolStripMenuItem"
-        Me.MenuToolStripMenuItem.Size = New System.Drawing.Size(320, 22)
+        Me.MenuToolStripMenuItem.Size = New System.Drawing.Size(322, 22)
         Me.MenuToolStripMenuItem.Text = "MenuStrip, ContextMenuStrip dan RichTextBox"
         '
         'Praktikum5ToolStripMenuItem1
@@ -331,6 +331,18 @@ Partial Class Home
         Me.Praktikum11ToolStripMenuItem1.Size = New System.Drawing.Size(180, 22)
         Me.Praktikum11ToolStripMenuItem1.Text = "Praktikum 11"
         '
+        'DatabaseSQLToolStripMenuItem
+        '
+        Me.DatabaseSQLToolStripMenuItem.Name = "DatabaseSQLToolStripMenuItem"
+        Me.DatabaseSQLToolStripMenuItem.Size = New System.Drawing.Size(198, 22)
+        Me.DatabaseSQLToolStripMenuItem.Text = "Database SQL Server CE"
+        '
+        'DatabaseAccessToolStripMenuItem
+        '
+        Me.DatabaseAccessToolStripMenuItem.Name = "DatabaseAccessToolStripMenuItem"
+        Me.DatabaseAccessToolStripMenuItem.Size = New System.Drawing.Size(198, 22)
+        Me.DatabaseAccessToolStripMenuItem.Text = "Database Access"
+        '
         'Praktikum12ToolStripMenuItem
         '
         Me.Praktikum12ToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Latihan1ToolStripMenuItem, Me.Latihan2ToolStripMenuItem})
@@ -360,20 +372,20 @@ Partial Class Home
         'GameTicTacToeToolStripMenuItem
         '
         Me.GameTicTacToeToolStripMenuItem.Name = "GameTicTacToeToolStripMenuItem"
-        Me.GameTicTacToeToolStripMenuItem.Size = New System.Drawing.Size(167, 22)
+        Me.GameTicTacToeToolStripMenuItem.Size = New System.Drawing.Size(164, 22)
         Me.GameTicTacToeToolStripMenuItem.Text = "Game Tic Tac Toe"
         '
         'TugasToolStripMenuItem
         '
         Me.TugasToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Tugas1ToolStripMenuItem})
         Me.TugasToolStripMenuItem.Name = "TugasToolStripMenuItem"
-        Me.TugasToolStripMenuItem.Size = New System.Drawing.Size(51, 20)
+        Me.TugasToolStripMenuItem.Size = New System.Drawing.Size(50, 20)
         Me.TugasToolStripMenuItem.Text = "&Tugas"
         '
         'Tugas1ToolStripMenuItem
         '
         Me.Tugas1ToolStripMenuItem.Name = "Tugas1ToolStripMenuItem"
-        Me.Tugas1ToolStripMenuItem.Size = New System.Drawing.Size(115, 22)
+        Me.Tugas1ToolStripMenuItem.Size = New System.Drawing.Size(114, 22)
         Me.Tugas1ToolStripMenuItem.Text = "Tugas &1"
         '
         'BantuanToolStripMenuItem
@@ -386,7 +398,7 @@ Partial Class Home
         'BantuanToolStripMenuItem1
         '
         Me.BantuanToolStripMenuItem1.Name = "BantuanToolStripMenuItem1"
-        Me.BantuanToolStripMenuItem1.Size = New System.Drawing.Size(117, 22)
+        Me.BantuanToolStripMenuItem1.Size = New System.Drawing.Size(116, 22)
         Me.BantuanToolStripMenuItem1.Text = "T&entang"
         '
         'NamaToolStripMenuItem1
@@ -401,18 +413,6 @@ Partial Class Home
         Me.LogoutToolStripMenuItem.Name = "LogoutToolStripMenuItem"
         Me.LogoutToolStripMenuItem.Size = New System.Drawing.Size(112, 22)
         Me.LogoutToolStripMenuItem.Text = "&Logout"
-        '
-        'DatabaseSQLToolStripMenuItem
-        '
-        Me.DatabaseSQLToolStripMenuItem.Name = "DatabaseSQLToolStripMenuItem"
-        Me.DatabaseSQLToolStripMenuItem.Size = New System.Drawing.Size(198, 22)
-        Me.DatabaseSQLToolStripMenuItem.Text = "Database SQL Server CE"
-        '
-        'DatabaseAccessToolStripMenuItem
-        '
-        Me.DatabaseAccessToolStripMenuItem.Name = "DatabaseAccessToolStripMenuItem"
-        Me.DatabaseAccessToolStripMenuItem.Size = New System.Drawing.Size(198, 22)
-        Me.DatabaseAccessToolStripMenuItem.Text = "Database Access"
         '
         'Home
         '

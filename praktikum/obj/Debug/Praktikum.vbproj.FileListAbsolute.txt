@@ -178,3 +178,24 @@ C:\!!!DATA SERVER\Tugas Universitas\vb\vb\praktikum\obj\Debug\resqy.Form24.resou
 C:\!!!DATA SERVER\Tugas Universitas\vb\vb\praktikum\bin\Debug\Database1.mdf
 C:\!!!DATA SERVER\Tugas Universitas\vb\vb\praktikum\bin\Debug\Database1_log.ldf
 C:\!!!DATA SERVER\Tugas Universitas\vb\vb\praktikum\obj\Debug\resqy.Form25.resources
+C:\Users\Resqy\source\repos\vb\praktikum\bin\Debug\Database1.mdf
+C:\Users\Resqy\source\repos\vb\praktikum\bin\Debug\Database1_log.ldf
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form10.resources
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form11.resources
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form12.resources
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form13.resources
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form14.resources
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form15.resources
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form16.resources
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form17.resources
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form18.resources
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form19.resources
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form20.resources
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form21.resources
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form22.resources
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form23.resources
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form24.resources
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form25.resources
+C:\Users\Resqy\source\repos\vb\praktikum\obj\Debug\resqy.Form9.resources
+C:\Users\Resqy\Source\Repos\vb\praktikum\bin\Debug\Database11.accdb
+C:\Users\Resqy\Source\Repos\vb\praktikum\obj\Debug\resqy.Form26.resources

@@ -142,4 +142,8 @@
         Form25.Show()
 
     End Sub
+
+    Private Sub DatabaseAccessToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles DatabaseAccessToolStripMenuItem.Click
+        Form26.Show()
+    End Sub
 End Class
