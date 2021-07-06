@@ -7,6 +7,8 @@
     End Sub
 
     Private Sub Form26_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        'TODO: This line of code loads data into the 'DataSet1.Table' table. You can move, or remove it, as needed.
+        Me.TableTableAdapter.Fill(Me.DataSet1.Table)
         'TODO: This line of code loads data into the 'Database11DataSet.mhs' table. You can move, or remove it, as needed.
         Me.MhsTableAdapter.Fill(Me.Database11DataSet.mhs)
 

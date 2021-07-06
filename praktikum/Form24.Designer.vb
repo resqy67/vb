@@ -28,14 +28,14 @@ Partial Class Form24
         '
         'TxtAngka
         '
-        Me.TxtAngka.Location = New System.Drawing.Point(84, 60)
+        Me.TxtAngka.Location = New System.Drawing.Point(74, 64)
         Me.TxtAngka.Name = "TxtAngka"
         Me.TxtAngka.Size = New System.Drawing.Size(201, 20)
         Me.TxtAngka.TabIndex = 0
         '
         'BtnProses
         '
-        Me.BtnProses.Location = New System.Drawing.Point(179, 129)
+        Me.BtnProses.Location = New System.Drawing.Point(200, 113)
         Me.BtnProses.Name = "BtnProses"
         Me.BtnProses.Size = New System.Drawing.Size(75, 23)
         Me.BtnProses.TabIndex = 1
@@ -46,7 +46,7 @@ Partial Class Form24
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(354, 307)
+        Me.ClientSize = New System.Drawing.Size(354, 177)
         Me.Controls.Add(Me.BtnProses)
         Me.Controls.Add(Me.TxtAngka)
         Me.Name = "Form24"
